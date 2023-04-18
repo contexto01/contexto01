@@ -21,8 +21,8 @@
 ### ⚒️ Skills
 
 <div id="Skills">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="50px" height="50px">
-    <img src="https://i.postimg.cc/bNPQqqP7/pngwing-com-6.png" alt="css" width="50px" height="50px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="50px" height="50px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="gdscript" width="50px" height="50px">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" title="html" width="50px" height="50px">
+    <img src="https://i.postimg.cc/bNPQqqP7/pngwing-com-6.png" alt="css" title="css" width="50px" height="50px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" title="javascript" width="50px" height="50px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="gdscript" title="gdscript" width="50px" height="50px">
 </div>
