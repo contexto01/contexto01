@@ -4,7 +4,9 @@
 
 <div align="center">
     <p><b>I like programming and everything related to it, I like to learn and discover a world of possibilities through programming, since that way I can express my creativity. I am a backend and frontend programmer, and every day I study this career to have the ability to solve increasingly complex problems</b>🛸</p>
+  <a href="#">
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a>
 </div>
 
 ### 🪄About me
@@ -15,9 +17,9 @@
 - 🔎 I am informed about new technologies
 - 🎨 I use different technologies and I vary
 - 😅 I never give up and keep going
-
-<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-
+  <a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+  </a>
 ### ⚒️ Skills
 
 <div id="Skills">
