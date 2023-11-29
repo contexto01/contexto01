@@ -23,11 +23,11 @@
 ### ⚒️ Skills
 
 <div id="Skills">
-    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" title="javascript" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="gdscript" title="gdscript" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1-1174935.png?f=webp" alt="unity" title="unity" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://i.ibb.co/m6qzDxg/62e131df7fe3599fdd46ecb3.png" alt="unity" title="unity" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://i.postimg.cc/bNPQqqP7/pngwing-com-6.png" alt="css" title="css" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" title="html" width="50px" height="50px"></a>
-    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="React" title="React" width="50px" height="50px"></a>
+    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" title="javascript" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="gdscript" title="gdscript" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1-1174935.png?f=webp" alt="unity" title="unity" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://i.ibb.co/m6qzDxg/62e131df7fe3599fdd46ecb3.png" alt="unity" title="unity" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://i.postimg.cc/bNPQqqP7/pngwing-com-6.png" alt="css" title="css" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" title="html" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="React" title="React" width="60px" height="60px"></a>
 </div>
