@@ -27,7 +27,7 @@
     <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="gdscript" title="gdscript" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1-1174935.png?f=webp" alt="unity" title="unity" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://i.ibb.co/m6qzDxg/62e131df7fe3599fdd46ecb3.png" alt="unity" title="unity" width="60px" height="60px"></a>
-    <a href="https://github.com/contexto01"><img src="https://i.postimg.cc/bNPQqqP7/pngwing-com-6.png" alt="css" title="css" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://i.imgflip.com/6ejuoo.png" alt="css" title="css" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" title="html" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="React" title="React" width="60px" height="60px"></a>
 <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="Typescript" width="60px" height="60px"></a>
