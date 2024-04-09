@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### 🪄About me
+### 👨‍💻About me
 
 - 📖 I investigate the documentation
 - 🖥️ I watch courses on youtube
