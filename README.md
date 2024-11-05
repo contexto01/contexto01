@@ -30,5 +30,6 @@
     <a href="https://github.com/contexto01"><img src="https://i.imgflip.com/6ejuoo.png" alt="css" title="css" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" title="html" width="60px" height="60px"></a>
     <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" alt="React" title="React" width="60px" height="60px"></a>
-<a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="Typescript" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" title="Typescript" width="60px" height="60px"></a>
+    <a href="https://github.com/contexto01"><img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="Astro" title="Astro" width="60px" height="60px"></a>
 </div>
